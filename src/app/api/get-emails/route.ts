@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import { kv } from "@vercel/kv";
 import { NextResponse } from "next/server";
 
